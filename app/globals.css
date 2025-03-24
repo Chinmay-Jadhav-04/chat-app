@@ -79,3 +79,13 @@ html, body {
   }
 }
 
+
+.dropdown-menu {
+  z-index: 50;
+  position: relative;
+}
+
+.dropdown-menu-content {
+  z-index: 51;
+}
+
